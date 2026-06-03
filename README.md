@@ -5,8 +5,9 @@
 **Centro de Prácticas:** Universidad de Málaga (UMA) - Grupo ICB  
 **Curso:** 2025 / 2026  
 
-## 🎥 Enlace a la Presentación
-*   **Vídeo de la exposición:** [Enlace al vídeo de Guillermo Diañez Gómez] (Sustituir por la URL real de YouTube/Vimeo).
+## 🎥 Enlace a los videos
+*   [Parte Individual](https://canva.link/ng6jtquxu02v9us)
+* [Parte de la empresa](https://canva.link/fp0xsk5jig6iz06)
 
 ---
 
@@ -32,7 +33,6 @@ Mi actividad se desarrolló entre el **16 de febrero y el 28 de mayo de 2026**, 
 Para el desarrollo del proyecto se han empleado las siguientes tecnologías:
 *   **Frameworks:** Next.js y React.
 *   **Librerías de Visualización:** Chart.js y Plotly para analíticas de datos médicos.
-*   **Estilos:** shadcn/ui.
 *   **Procesamiento de Datos:** Python y la librería Pandas.
 *   **Control de Versiones:** Uso riguroso de **GitHub** para la gestión del código y supervisión de los avances.
 
