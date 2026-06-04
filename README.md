@@ -6,8 +6,8 @@
 **Curso:** 2025 / 2026  
 
 ## 🎥 Enlace a los videos
-*   [Parte Individual](https://canva.link/ng6jtquxu02v9us)
-* [Parte de la empresa](https://canva.link/fp0xsk5jig6iz06)
+*   [Parte Individual](https://youtu.be/792OVMptyZM)
+* [Parte de la empresa](https://youtu.be/NS0dfqrFOF0)
 
 ---
 
